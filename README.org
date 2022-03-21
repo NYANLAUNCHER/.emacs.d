@@ -1,2 +1,4 @@
 
-* This is My Emacs Config
+* Emacs
+
+This is my emacs config.

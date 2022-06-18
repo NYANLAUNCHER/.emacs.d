@@ -9,7 +9,7 @@
 (menu-bar-mode -1) ; diable menu bar
 
 ;; Setup visual bell
-(setq visual-bell t)
+(setq visual-bell nil)
 
 (set-face-attribute 'default nil :font "JetBrainsMono NF" :height 115)
 
